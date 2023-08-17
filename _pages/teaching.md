@@ -9,8 +9,7 @@ nav_order: 5
 
 ***  
 
-## Graduate student instructure  (GSI)
-
+## Graduate student instructor (GSI)
 
 - [**Physics 238**](https://classes.berkeley.edu/content/2020-Fall-PHYSICS-238-001-LEC-001): Graduate Advance Atomic, Molecular, and Optical Physics
 

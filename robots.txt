@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kakakrav.github.io/sitemap.xml
+Sitemap: https://kakkarav.com# the base hostname & protocol for your site/sitemap.xml

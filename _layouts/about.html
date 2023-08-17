@@ -32,6 +32,12 @@ layout: default
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
+              <div style="display: flex; flex-direction: row; justify-content: center; padding-top: 15px; padding-bottom: 15px"></div>
+                {%- include components/link-button.html
+                  link="/assets/pdf/kamphol_akkaravarawong_resume.pdf"
+                  text="Here is my Resume!"
+                -%}
+              </div>
             </div>
             {%- endif %}
           </div>

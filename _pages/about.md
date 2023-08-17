@@ -8,7 +8,7 @@ profile:
   align: right
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: Not a self-portrait
+  address: <p> Not a self-portrait </p> 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

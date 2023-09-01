@@ -2,17 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
-***  
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-## Graduate student instructor (GSI)
-
-- [**Physics 238**](https://classes.berkeley.edu/content/2020-Fall-PHYSICS-238-001-LEC-001): Graduate Advance Atomic, Molecular, and Optical Physics
-
--  [**Physics 216**](https://classes.berkeley.edu/content/2018-spring-physics-216-001-lec-001): Graduate Special Topics in Many-Body Physics
-
-- **Physics 7A**: Undergraduate Physics for Scientists and Engineers
+Organize your courses by years, topics, or universities, however you like!

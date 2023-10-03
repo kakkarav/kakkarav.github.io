@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a theoretical physicist by training, an artist at heart, and a technologist by serendipity.
+I am a PhD student in [Yao group](https://quantumoptics.physics.berkeley.edu/) at University of California, Berkeley, and received my undergraduate degree in physics from MIT in 2016 under the guidance of Professor [Leonid Levitov](http://www.mit.edu/~levitov/). My research focuses on the effect of disorder on the quantum systems in condensed matter such as Quantum Hall effect and superconductors.
 
-I am a PhD student in [Yao group](https://quantumoptics.physics.berkeley.edu/) at University of California, Berkeley, and received my undergraduate degree in physics from MIT in 2016 under the guidance of Professor [Leonid Levitov](http://www.mit.edu/~levitov/). 
+Outside theoretical physics, I am fascinated by arts and technologies. I love tinkering with hardware and experimenting with various open-source software and technologies. 

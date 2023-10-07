@@ -1,8 +1,8 @@
 ---
-layout: cv 
+layout: default
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: resume.pdf 
+redirect_to: ../assets/pdf/kamphol_akkaravarawong_resume.pdf
 ---
